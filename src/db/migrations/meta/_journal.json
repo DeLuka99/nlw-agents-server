@@ -8,6 +8,13 @@
       "when": 1752075314125,
       "tag": "0000_lean_glorian",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752077904447,
+      "tag": "0001_loud_shooting_star",
+      "breakpoints": true
     }
   ]
 }
